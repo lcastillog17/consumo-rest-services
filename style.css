@@ -1,0 +1,38 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #user-details {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  /* Encabezado */
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Detalles del usuario */
+  p {
+    font-size: 16px;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  /* Enlaces */
+  a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
